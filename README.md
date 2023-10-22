@@ -1,4 +1,4 @@
-# Project1 - please review RealEstateTexas for code!
+# Real Estate Texas 
 For this project, We had the question Where in Texas has the greatest ROI for Airbnb? 
 
 Based on this we had a few questions:
